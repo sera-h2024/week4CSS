@@ -1,0 +1,36 @@
+html, body, p, h1, h2, h3, h4, h5 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.colorbox {
+    background-color: aliceblue;
+}
+
+.span_box {
+    color:indigo
+}
+
+#jellyfish {
+    background-color: lemonchiffon;
+    border-left: 10px;
+    position: fixed;
+    margin-top: 50px;
+    margin-right: 70px;
+}
+
+#myarticle {
+    background-color: teal;
+    position: relative;
+}
+
+#david {
+    background-color: palevioletred;
+    padding: 5px 20px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: cornflowerblue;
+    margin: 20px;
+}
+#below {
+    position: sticky;
+}
